@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.239.173.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1748130542422
+  login: 1748130526777
+money: '0'
+logoutlocation:
+  world: aa472eb1-2fbf-48e6-a0f0-0570c41eabc9
+  world-name: world
+  x: -299.0096168306613
+  y: 68.0
+  z: 334.1791166570204
+  yaw: 155.8028564453125
+  pitch: 13.532166481018066
+last-account-name: RenatoHp15
